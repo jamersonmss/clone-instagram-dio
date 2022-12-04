@@ -1,6 +1,6 @@
 # clone-instagram-dio
 
-Olá pessoal!
+Olá a todos!
 
-Este repositório é para o nosso desafio de projeto: Recriando a página inicial do Instagram;
+Este repositório é do desafio realizado no projeto: Recriando a página inicial do Instagram;
 
