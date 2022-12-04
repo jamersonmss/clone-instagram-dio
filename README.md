@@ -2,5 +2,5 @@
 
 Olá a todos!
 
-Este repositório é do desafio realizado no projeto: Recriando a página inicial do Instagram;
+Este repositório é do desafio realizado do projeto: Recriando a página inicial do Instagram;
 
